@@ -1,0 +1,1 @@
+Este script em Python captura dados de uma base de dados online contendo informações de data, hora, minutos, segundos e valores de corrente elétrica. Os dados são então salvos em um banco de dados SQLite local e apresentados em um gráfico, onde o eixo X representa o dia e o horário, e o eixo Y representa o valor da corrente elétrica.
